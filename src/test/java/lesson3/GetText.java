@@ -28,5 +28,6 @@ public class GetText {
 
         // Retrieve and print the visible text of the "login_credentials" element
         System.out.println("Login page has login credentials text: " + loginCredentials.getText());
+
     }
 }
